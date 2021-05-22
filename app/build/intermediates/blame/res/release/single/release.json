@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_empty.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\raw_ui_click.wav.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\raw\\ui_click.wav"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice5.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice5.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_my_dice_circle_perspective.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable-v24\\my_dice_circle_perspective.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice2.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice2.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_one_dice.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\layout\\activity_one_dice.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice6.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice6.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\raw_dice_roll.wav.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\raw\\dice_roll.wav"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice4.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice4.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_two_dice.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\layout\\activity_two_dice.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice1.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice1.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice3.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice3.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_dice_perspective.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Dice\\app\\src\\main\\res\\drawable\\my_dice_perspective.png"
+    }
+]

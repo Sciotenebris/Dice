@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="dice_view_description">Changes image depending on the outcome of the dice</string>
+    <string name="button_description">Rolls the dice</string>
+    <string name="roll_button_name">Roll</string>
+
+    <string name="one_dice_button">1</string>
+    <string name="one_dice_desc">Sets activity to roll one dice</string>
+
+    <string name="two_dice_button">2</string>
+    <string name="two_dice_desc">Sets activity to roll two dice</string>
+
+    <string name="question_view">Select 1 or 2 dice</string>
+    <string name="question_desc">Prompts user to select number of dice</string>
+
+    <string name="ad_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_test_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
